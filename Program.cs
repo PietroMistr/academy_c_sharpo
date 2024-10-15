@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+int pippo = 0;
 
 #if DEBUG
 for (int i = 1; i <= 10; i++)
